@@ -1,4 +1,12 @@
-# Consequences of complying with the Code of Conduct (Legal Safe Harbor)
+# Introduction
+
+# Expectations
+
+# Ground Rules
+
+# Safe Harbor
+
+Consequences of complying with the Code of Conduct (Legal Safe Harbor)
 
 1. The owner will not take civil action or file a complaint with law enforcement authorities against participants for accidental, good faith violations of the Code of Conduct
 
